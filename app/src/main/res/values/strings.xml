@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FCM Authentication</string>
+    <string name="facebook_app_id">190495399556302</string>
+    <string name="fb_login_protocol_scheme">fb190495399556302</string>
+</resources>
